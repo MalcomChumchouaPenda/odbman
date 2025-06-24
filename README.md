@@ -3,14 +3,13 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
----
+
 
 ## Description
 
 **Odbman** is a modular command-line application for database administration, designed like a text-based adventure game.
 It allows users to perform complex tasks in various functional domains (students, payments, registrations...) through an immersive and interactive interface.
 
----
 
 ## Features
 
@@ -20,7 +19,6 @@ It allows users to perform complex tasks in various functional domains (students
 - Menu-driven navigation with contextual commands
 - Suitable for DBAs, developers, and educators
 
----
 
 ## Installation
 
